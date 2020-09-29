@@ -30,3 +30,24 @@
     font-weight: 700;
     font-display: fallback;
 }
+
+@font-face{
+     font-family: SourceHan;
+     src: url(../fonts/SourceHanSerifTW-Regular.otf) format('opentype');
+     font-display: fallback;
+     font-weight: 400;
+}
+
+@font-face{
+     font-family: SourceHan;
+     src: url(../fonts/SourceHanSerifTW-Bold.otf) format('opentype');
+     font-display: fallback;
+     font-weight: 700;
+}
+
+@font-face{
+     font-family: SourceHan;
+     src: url(../fonts/SourceHanSerifTW-SemiBold.otf) format('otf');
+     font-display: fallback;
+     font-weight: 600;
+}

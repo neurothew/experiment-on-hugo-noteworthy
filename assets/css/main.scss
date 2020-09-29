@@ -12,8 +12,10 @@ $gray-dark: #5F5F5F;
 $highlight: #FFEC5C;
 
 // FONTS
-$serif: "Noto Serif","Segoe UI","Helvetica Neue",Helvetica,Roboto,FreeSans,serif;
-$sans-serif: "Noto Sans","Segoe UI","Helvetica Neue",Helvetica,Roboto,FreeSans,sans-serif;
+$serif: "SourceHan", "Noto Serif","Segoe UI","Helvetica Neue",Helvetica,Roboto,FreeSans,serif;
+$sans-serif: "SourceHan", "Noto Sans","Segoe UI","Helvetica Neue",Helvetica,Roboto,FreeSans,sans-serif;
+// $serif: "SourceHan";
+// $sans-serif: "SourceHan";
 $code: Menlo,Monaco,"Courier New",monospace;
 
 /* SASS IMPORT ========================================================================== */
